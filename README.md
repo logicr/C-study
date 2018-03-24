@@ -12,4 +12,18 @@
 * git merge master //合并
 * git branch -d branch-name//删除分支 
 
+# gitHub远程分支创建
+* 1.在本地master上分出一个项目分支
+* git checkout -b bug1_dujie
+
+
+* git checkout -b bug1_dujie origin/master 在远程添加分支 
+* $git push origin :bug1_dujie	删除远程分支
+* git push origin bug1_dujie:bug1_dujie	本地修改推送到远程分支
+* 2.修复bug
+* git add 
+* git commit
+
+
+*3.git push origin bug1_dujie 推送到主分支
 
