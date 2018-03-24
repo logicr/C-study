@@ -1,5 +1,5 @@
 ﻿> # C-study
-## I am studying C
+## <font fact = "幼圆" color = "2F4F4F" >I am studying C
 * 我今天学习了C语言的结构体
 
 * 不过早上有点困，没听的很懂
@@ -25,5 +25,5 @@
 * git commit
 
 
-* 3.git push origin bug1_dujie 推送到主分支
+* 3.git push origin bug1_dujie 推送到主分支</font>
 
