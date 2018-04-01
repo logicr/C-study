@@ -1,4 +1,5 @@
 	#pragma warning(disable:4996)
+	#include <stdio.h>
 	struct Test
 	{
 		int age;
